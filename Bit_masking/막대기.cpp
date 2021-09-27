@@ -12,6 +12,8 @@ int main()
 {
 	cin >> X;
 
+	// 이진수의 1의 값
+
 	while (1)
 	{
 		if (X <= 0)
